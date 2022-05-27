@@ -7,3 +7,5 @@ print(pg3+'3')
 time = 'make some changes'
 print(pg3+'3',time)
 
+tesla = 'make another changes'
+print(pg3+'3',time, tesla )
