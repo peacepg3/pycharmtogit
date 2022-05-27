@@ -3,3 +3,7 @@ p = 'peace'
 g = 'generation'
 pg3 = p+g
 print(pg3+'3')
+
+time = 'make some changes'
+print(pg3+'3',time)
+
